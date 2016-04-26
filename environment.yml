@@ -9,3 +9,4 @@ dependencies:
 - ipykernel=4.3
 - ipywidgets=4.1  
 - numexpr=2.5  
+- numba=0.25  
