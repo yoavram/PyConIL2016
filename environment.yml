@@ -7,3 +7,4 @@ dependencies:
 - matplotlib=1.5
 - cython=0.24
 - ipykernel=4.3
+- ipywidgets=4.1  
