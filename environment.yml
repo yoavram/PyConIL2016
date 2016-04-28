@@ -1,7 +1,7 @@
 name: PyConIL2016
 dependencies:
-- python=3.5.1
-- numpy=1.11.0=py35_0
+- python=3.5
+- numpy=1.11
 - scipy=0.17
 - seaborn=0.7
 - matplotlib=1.5
@@ -9,4 +9,3 @@ dependencies:
 - ipykernel=4.3
 - ipywidgets=4.1  
 - numexpr=2.5  
-- numba=0.25.0=np110py35_0
