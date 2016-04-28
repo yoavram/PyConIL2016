@@ -3,8 +3,6 @@
 
 by **Yoav Ram** ([Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram))
 
-## Media
-
 [![PDF](https://img.shields.io/badge/presentation-PDF-blue.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pdf?raw=true)
 [![PowerPoint](https://img.shields.io/badge/presentation-PowerPoint-red.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pptx?raw=true)
 [![NBViewer](https://img.shields.io/badge/notebook-nbviewer-green.svg)](http://nbviewer.jupyter.org/github/yoavram/PyConIL2016/tree/master/) [![Binder](https://img.shields.io/badge/notebook-binder-orange.svg)](http://mybinder.org/repo/yoavram/PyConIL2016)
