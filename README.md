@@ -1,7 +1,7 @@
 # How to Study Evolution Using Scientific Python
 ### [PyCon Israel 2016](http://il.pycon.org/2016)
 
-by **Yoav Ram** ([Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram))
+by **Yoav Ram** | [Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram)
 
 [![PDF](https://img.shields.io/badge/presentation-PDF-blue.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pdf?raw=true)
 [![PowerPoint](https://img.shields.io/badge/presentation-PowerPoint-red.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pptx?raw=true)
