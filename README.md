@@ -3,8 +3,7 @@
 
 by **Yoav Ram** | [Homepage](http://www.yoavram.com) | [Python training](http://python.yoavram.com) | [Twitter](https://twitter.com/yoavram)
 
-[![YouTube](https://img.shields.io/badge/presentation-YouTube-orange.svg)]
-(https://www.youtube.com/watch?v=2w8Tv016Frw)
+[![YouTube](https://img.shields.io/badge/presentation-YouTube-orange.svg)](https://www.youtube.com/watch?v=2w8Tv016Frw)
 [![PDF](https://img.shields.io/badge/presentation-PDF-blue.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pdf?raw=true)
 [![PowerPoint](https://img.shields.io/badge/presentation-PowerPoint-red.svg)](https://github.com/yoavram/PyConIL2016/blob/master/presentation.pptx?raw=true)
 [![PDF](https://img.shields.io/badge/appendix-PDF-yellow.svg)](https://github.com/yoavram/PyConIL2016/blob/master/appendix.pdf?raw=true)
